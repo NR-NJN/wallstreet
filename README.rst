@@ -16,7 +16,7 @@ Stocks:
 
   from wallstreet import Stock, Call, Put
 
-  >>> s = Stock('NSFT')
+  >>> s = Stock('MSFT')
   >>> s.price
   96.44
   >>> s.price
